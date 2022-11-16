@@ -1,3 +1,5 @@
+![GC Data Ecosystem logo](https://raw.githubusercontent.com/GC-Data-Ecosystem/.github/main/profile/GC-Data-Ecosystem.png)
+
 # GC Data Ecosystem
 
 The Results & Delivery Unit at the Privy Council office and the GC Data Community hosted at the Canada School of Public Service are facilitating a collaborative effort to chart the GC Data Ecosystem. 
